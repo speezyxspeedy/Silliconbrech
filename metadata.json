@@ -1,0 +1,6 @@
+{
+  "name": "SiliconBench",
+  "description": "Online microcontroller IDE and real-time hardware simulator supporting Arduino, ESP32, RP2040, STM32, OLED, TFT, LCD, and addressable LED displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
